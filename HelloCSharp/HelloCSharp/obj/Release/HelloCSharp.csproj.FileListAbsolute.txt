@@ -1,0 +1,8 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\HelloCSharp\HelloCSharp\bin\Release\HelloCSharp.exe.config
+C:\Users\Administrator\documents\visual studio 2013\Projects\HelloCSharp\HelloCSharp\bin\Release\HelloCSharp.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\HelloCSharp\HelloCSharp\bin\Release\HelloCSharp.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\HelloCSharp\HelloCSharp\obj\Release\HelloCSharp.Form1.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\HelloCSharp\HelloCSharp\obj\Release\HelloCSharp.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\HelloCSharp\HelloCSharp\obj\Release\HelloCSharp.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\HelloCSharp\HelloCSharp\obj\Release\HelloCSharp.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\HelloCSharp\HelloCSharp\obj\Release\HelloCSharp.pdb
